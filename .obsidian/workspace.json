@@ -1,0 +1,281 @@
+{
+  "main": {
+    "id": "36f90d69aa921d65",
+    "type": "split",
+    "children": [
+      {
+        "id": "df812d19a83ccd71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfe2cef683111eec",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "书/社会/基本收入·鹈鹕丛书（企鹅兰登出品！鹈鹕丛书最新作品！埃隆·马斯克、扎克伯格都倡导的基本收入到底是什么？写给所有人的一部深思基本收入问... (Z-Library).pdf"
+              }
+            }
+          },
+          {
+            "id": "6f17df8b6d6df2fd",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "书/政治/笔记/可能性的艺术：比较政治学/可能性的艺术：比较政治学30讲（学者刘瑜比较政治学新著，跳出现象，通过比较洞察政治，突破认知偏见，在浩瀚的可能性中理解我们自身 理想国出品） (1) 1.pdf"
+              }
+            }
+          },
+          {
+            "id": "81076c47d1d53696",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "西方政治制度史/01.1古希腊雅典的奴隶主民主共和制.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dec498179f65a64f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "书/社会/笔记/基本收入/从引言开始.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "f2729b6b372bdffb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d017c34f0c26e8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "书/社会/笔记/基本收入/03.0基本收入与自由.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b0a488ab4d13e5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "当代西方政治思潮/01自由主义.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "931b4a6566c3caa3",
+    "type": "split",
+    "children": [
+      {
+        "id": "db2b2244438cf2a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ded4f28f8acbb25a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b62c3b6819cd6888",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#归口管理",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "63673f599435f1d9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "ba7b6fc74afaadf8",
+    "type": "split",
+    "children": [
+      {
+        "id": "b45d00bce76dda68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b688d4ba5eb1d7a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "dd2544c68770e5f1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "书/社会/基本收入·鹈鹕丛书（企鹅兰登出品！鹈鹕丛书最新作品！埃隆·马斯克、扎克伯格都倡导的基本收入到底是什么？写给所有人的一部深思基本收入问... (Z-Library).pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "66fc36a3009550f4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "书/社会/基本收入·鹈鹕丛书（企鹅兰登出品！鹈鹕丛书最新作品！埃隆·马斯克、扎克伯格都倡导的基本收入到底是什么？写给所有人的一部深思基本收入问... (Z-Library).pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9793db384df1f8ba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f2ca182d0f759484",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "书/社会/基本收入·鹈鹕丛书（企鹅兰登出品！鹈鹕丛书最新作品！埃隆·马斯克、扎克伯格都倡导的基本收入到底是什么？写给所有人的一部深思基本收入问... (Z-Library).pdf"
+              }
+            }
+          },
+          {
+            "id": "7c5657a8a77fe710",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "ded4f28f8acbb25a",
+  "lastOpenFiles": [
+    "书/哲学/形而上学读本 (张志伟) (Z-Library).pdf",
+    "书/1.git/logs/refs/remotes/origin/master",
+    "书/1.git/refs/remotes/origin/master",
+    "书/1.git/logs/refs/remotes/origin",
+    "书/1.git/logs/refs/heads/master",
+    "书/1.git/objects/c9/eadf3dee5bbc0a14a5c8dfbb8076c3050ffa8d",
+    "书/1.git/objects/ef/2d8e67a8c79ff4064774efd64f810ac528c1ff",
+    "书/1.git/objects/ff/c1228a3eb9f9935fe038154330fe6e950a4977",
+    "书/1.git/objects/f9/c9190f0a217de930915f286010b3ea7f232a8f",
+    "书/1.git/objects/f9/78ce90c1154e5a35c11805452ef21d70d28c9a",
+    "书/1.git/objects/f9/6715fe161e140254306230ef092cafc25e712e",
+    "书/社会/笔记/基本收入/03.0基本收入与自由.md",
+    "书/社会/笔记/基本收入/02.0以基本收入实现社会正义.md",
+    "当代西方政治思潮/01自由主义.md",
+    "书/德米安.md",
+    "当代西方政治思潮/00引言.md",
+    "书/政治/笔记/可能性的艺术：比较政治学/00.0序言.md",
+    "书/政治/笔记/可能性的艺术：比较政治学/01.0全球视野.md",
+    "书/政治/笔记/可能性的艺术：比较政治学/02.0政治转型-历史终结论的终结.md",
+    "比较政治学/01导论.md",
+    "书/社会/笔记/波兹曼/娱乐至死/02.md",
+    "书/政治/笔记/可能性的艺术：比较政治学/03.2阿富汗的国家建构.md",
+    "书/政治/笔记/可能性的艺术：比较政治学/03.1美国的国家建构.md",
+    "书/政治/笔记/可能性的艺术：比较政治学/04.0政治文化.md",
+    "书/政治/笔记/可能性的艺术：比较政治学/02.1政治转型-各国.md",
+    "书/政治/笔记/可能性的艺术：比较政治学/05.0文明的冲突.md",
+    "书/政治/笔记/大断裂：人类本性与社会秩序的重建/01.0社会价值的大断裂.md",
+    "书/社会/笔记/乡土中国/04维系着私人的道德.md",
+    "书/社会/笔记/波兹曼/娱乐至死/01媒介即隐喻.md",
+    "书/政治/笔记/可能性的艺术：比较政治学/source/阿拉伯之春(补充).md",
+    "杂/README (1).md",
+    "书/社会/笔记/基本收入/从引言开始.md",
+    "书/社会/笔记/乡土中国/07礼治.md",
+    "书/社会/笔记/乡土中国/06男女有别.md",
+    "书/社会/笔记/乡土中国/05家族.md",
+    "西方政治制度史/01.1古希腊雅典的奴隶主民主共和制.md",
+    "Pasted image 20230705231509.png",
+    "Pasted image 20230705230912.png",
+    "Pasted image 20230705230413.png",
+    "Pasted image 20230627175430.png",
+    "Pasted image 20230620103628.png",
+    "Pasted image 20230620103615.png",
+    "未命名.canvas",
+    "未命名 2.canvas",
+    "书/政治/笔记/可能性的艺术：比较政治学/source/Pasted image 20230420160144.png",
+    "书/政治/笔记/可能性的艺术：比较政治学/source/p118023739-1.jpg",
+    "Pasted image 20230614162412.png",
+    "Pasted image 20230614162353.png",
+    "未命名 1.canvas"
+  ]
+}
