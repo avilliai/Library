@@ -11,44 +11,8 @@
             "id": "bfe2cef683111eec",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "书/社会/基本收入·鹈鹕丛书（企鹅兰登出品！鹈鹕丛书最新作品！埃隆·马斯克、扎克伯格都倡导的基本收入到底是什么？写给所有人的一部深思基本收入问... (Z-Library).pdf"
-              }
-            }
-          },
-          {
-            "id": "6f17df8b6d6df2fd",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "书/政治/笔记/可能性的艺术：比较政治学/可能性的艺术：比较政治学30讲（学者刘瑜比较政治学新著，跳出现象，通过比较洞察政治，突破认知偏见，在浩瀚的可能性中理解我们自身 理想国出品） (1) 1.pdf"
-              }
-            }
-          },
-          {
-            "id": "81076c47d1d53696",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "西方政治制度史/01.1古希腊雅典的奴隶主民主共和制.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dec498179f65a64f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "书/社会/笔记/基本收入/从引言开始.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -58,27 +22,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5d017c34f0c26e8d",
+            "id": "fecc47aec14c5e7a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "书/社会/笔记/基本收入/03.0基本收入与自由.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2b0a488ab4d13e5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "当代西方政治思潮/01自由主义.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -155,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "书/社会/基本收入·鹈鹕丛书（企鹅兰登出品！鹈鹕丛书最新作品！埃隆·马斯克、扎克伯格都倡导的基本收入到底是什么？写给所有人的一部深思基本收入问... (Z-Library).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "书/社会/基本收入·鹈鹕丛书（企鹅兰登出品！鹈鹕丛书最新作品！埃隆·马斯克、扎克伯格都倡导的基本收入到底是什么？写给所有人的一部深思基本收入问... (Z-Library).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "书/社会/基本收入·鹈鹕丛书（企鹅兰登出品！鹈鹕丛书最新作品！埃隆·马斯克、扎克伯格都倡导的基本收入到底是什么？写给所有人的一部深思基本收入问... (Z-Library).pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -226,56 +170,56 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ded4f28f8acbb25a",
+  "active": "fecc47aec14c5e7a",
   "lastOpenFiles": [
-    "书/哲学/形而上学读本 (张志伟) (Z-Library).pdf",
-    "书/1.git/logs/refs/remotes/origin/master",
-    "书/1.git/refs/remotes/origin/master",
-    "书/1.git/logs/refs/remotes/origin",
-    "书/1.git/logs/refs/heads/master",
-    "书/1.git/objects/c9/eadf3dee5bbc0a14a5c8dfbb8076c3050ffa8d",
-    "书/1.git/objects/ef/2d8e67a8c79ff4064774efd64f810ac528c1ff",
-    "书/1.git/objects/ff/c1228a3eb9f9935fe038154330fe6e950a4977",
-    "书/1.git/objects/f9/c9190f0a217de930915f286010b3ea7f232a8f",
-    "书/1.git/objects/f9/78ce90c1154e5a35c11805452ef21d70d28c9a",
-    "书/1.git/objects/f9/6715fe161e140254306230ef092cafc25e712e",
-    "书/社会/笔记/基本收入/03.0基本收入与自由.md",
-    "书/社会/笔记/基本收入/02.0以基本收入实现社会正义.md",
-    "当代西方政治思潮/01自由主义.md",
-    "书/德米安.md",
-    "当代西方政治思潮/00引言.md",
-    "书/政治/笔记/可能性的艺术：比较政治学/00.0序言.md",
-    "书/政治/笔记/可能性的艺术：比较政治学/01.0全球视野.md",
-    "书/政治/笔记/可能性的艺术：比较政治学/02.0政治转型-历史终结论的终结.md",
-    "比较政治学/01导论.md",
-    "书/社会/笔记/波兹曼/娱乐至死/02.md",
-    "书/政治/笔记/可能性的艺术：比较政治学/03.2阿富汗的国家建构.md",
-    "书/政治/笔记/可能性的艺术：比较政治学/03.1美国的国家建构.md",
-    "书/政治/笔记/可能性的艺术：比较政治学/04.0政治文化.md",
-    "书/政治/笔记/可能性的艺术：比较政治学/02.1政治转型-各国.md",
-    "书/政治/笔记/可能性的艺术：比较政治学/05.0文明的冲突.md",
-    "书/政治/笔记/大断裂：人类本性与社会秩序的重建/01.0社会价值的大断裂.md",
-    "书/社会/笔记/乡土中国/04维系着私人的道德.md",
-    "书/社会/笔记/波兹曼/娱乐至死/01媒介即隐喻.md",
-    "书/政治/笔记/可能性的艺术：比较政治学/source/阿拉伯之春(补充).md",
-    "杂/README (1).md",
-    "书/社会/笔记/基本收入/从引言开始.md",
-    "书/社会/笔记/乡土中国/07礼治.md",
-    "书/社会/笔记/乡土中国/06男女有别.md",
-    "书/社会/笔记/乡土中国/05家族.md",
-    "西方政治制度史/01.1古希腊雅典的奴隶主民主共和制.md",
-    "Pasted image 20230705231509.png",
-    "Pasted image 20230705230912.png",
-    "Pasted image 20230705230413.png",
-    "Pasted image 20230627175430.png",
-    "Pasted image 20230620103628.png",
-    "Pasted image 20230620103615.png",
+    "政治/可能性的艺术：比较政治学/1.git/logs/refs/remotes/origin/master",
+    "政治/可能性的艺术：比较政治学/1.git/refs/remotes/origin/master",
+    "政治/可能性的艺术：比较政治学/1.git/logs/refs/remotes/origin",
+    "政治/可能性的艺术：比较政治学/1.git/logs/refs/heads/master",
+    "政治/可能性的艺术：比较政治学/1.git/objects/56/fdde04e7dcc9ab59fa4cf85b1b62714468b007",
+    "政治/可能性的艺术：比较政治学/1.git/refs/remotes/origin",
+    "政治/可能性的艺术：比较政治学/1.git/refs/heads/master",
+    "政治/可能性的艺术：比较政治学/1.git/objects/fc/edfe9f15749543d4335ecfedab9070d9dd5c9b",
+    "政治/可能性的艺术：比较政治学/1.git/objects/fc/c6d43350b06c6b97512908e51bc3d3346cf226",
+    "政治/可能性的艺术：比较政治学/1.git/objects/e2/e149e54574a48f813e1f6239dcc1abc55de786",
+    "政治/可能性的艺术：比较政治学/1.git/objects/ea/4fde8df284511dade9571d8111ed52f64a2213",
+    "政治/可能性的艺术：比较政治学/source/阿拉伯之春(补充).md",
+    "政治/可能性的艺术：比较政治学/source/自由主义与新儒家.md",
+    "政治/可能性的艺术：比较政治学/source/自由霸权与大西洋宪章.md",
+    "政治/可能性的艺术：比较政治学/source/Pasted image 20230420160144.png",
+    "政治/可能性的艺术：比较政治学/source/p118023739-1.jpg",
+    "政治/可能性的艺术：比较政治学/05.1新镀金时代—贫富差距.md",
+    "政治/可能性的艺术：比较政治学/05.0文明的冲突.md",
+    "政治/可能性的艺术：比较政治学/05.2新镀金时代—三层叙事.md",
+    "政治/可能性的艺术：比较政治学/04.0政治文化.md",
+    "政治/可能性的艺术：比较政治学/03.2阿富汗的国家建构.md",
+    "政治/可能性的艺术：比较政治学/03.1美国的国家建构.md",
+    "政治/可能性的艺术：比较政治学/03.0国家建构.md",
+    "政治/可能性的艺术：比较政治学/02.1政治转型-各国.md",
+    "政治/可能性的艺术：比较政治学/02.0政治转型-历史终结论的终结.md",
+    "政治/可能性的艺术：比较政治学/01.0全球视野.md",
+    "政治/可能性的艺术：比较政治学/00.0序言.md",
+    "德米安.md",
+    "README.md",
+    "闲书/尼尔盖曼.md",
+    "社会/笔记/波兹曼/娱乐至死/02.md",
+    "社会/笔记/波兹曼/娱乐至死/01媒介即隐喻.md",
+    "社会/笔记/乡土中国/07礼治.md",
+    "社会/笔记/乡土中国/06男女有别.md",
+    "社会/笔记/乡土中国/04维系着私人的道德.md",
+    "社会/笔记/乡土中国/03差序格局.md",
+    "社会/笔记/乡土中国/05家族.md",
+    "社会/笔记/乡土中国/02文字下乡.md",
+    "政治/笔记/置身事内/source/Pasted image 20230609195232.png",
+    "政治/笔记/置身事内/source/Pasted image 20230609195042.png",
+    "政治/笔记/中国历代政治得失/source/Pasted image 20230602172155.png",
+    "政治/笔记/中国历代政治得失/source/Pasted image 20230602172133.png",
+    "政治/笔记/中国历代政治得失/source/Pasted image 20230601213655.png",
+    "政治/笔记/置身事内/source/Pasted image 20230607161521.png",
+    "政治/笔记/置身事内/source/Pasted image 20230524180247.png",
+    "政治/笔记/置身事内/source/Pasted image 20230522110536.png",
     "未命名.canvas",
     "未命名 2.canvas",
-    "书/政治/笔记/可能性的艺术：比较政治学/source/Pasted image 20230420160144.png",
-    "书/政治/笔记/可能性的艺术：比较政治学/source/p118023739-1.jpg",
-    "Pasted image 20230614162412.png",
-    "Pasted image 20230614162353.png",
     "未命名 1.canvas"
   ]
 }
