@@ -4,62 +4,74 @@
     "type": "split",
     "children": [
       {
-        "id": "df812d19a83ccd71",
+        "id": "92fbc74ff0f6420a",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
-            "id": "61595de28ac769d9",
+            "id": "2b5515bd197b75af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "社会/工作、消费主义和新穷人 ((英)齐格蒙特·鲍曼) (Z-Library).pdf"
               }
             }
           },
           {
-            "id": "03c33b887df0cc32",
+            "id": "575aad8a39f5761c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "fuckYou.md",
-                "mode": "source",
-                "source": false
+                "file": "社会/把自己作为方法：与项飙谈话 (项飙, 吴琦) (Z-Library).pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "f2729b6b372bdffb",
+        "id": "4036c0c5b6dd036d",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
-            "id": "fecc47aec14c5e7a",
+            "id": "3f7f60c7228e1bb3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "政治/当代西方政治思潮/03保守自由主义.md",
+                "file": "社会/基本收入/Menu.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7a966d43dd4c6894",
+            "id": "67b77bc1233882d5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "社会/狗屁工作/01.0定义.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10b1c176bda292d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "哲学/心之道/01.0焦虑的年代.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#归口管理",
+                "query": "优绩主义",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fuckYou.md",
+                "file": "社会/工作、消费主义和新穷人 ((英)齐格蒙特·鲍曼) (Z-Library).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fuckYou.md",
+                "file": "社会/工作、消费主义和新穷人 ((英)齐格蒙特·鲍曼) (Z-Library).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fuckYou.md"
+                "file": "社会/工作、消费主义和新穷人 ((英)齐格蒙特·鲍曼) (Z-Library).pdf"
               }
             }
           },
@@ -205,64 +217,63 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "03c33b887df0cc32",
+  "active": "2b5515bd197b75af",
   "lastOpenFiles": [
-    "README.md",
-    "fuckYou.md",
-    "政治/比较政治学/01导论.md",
-    "德米安.md",
+    "社会/冷亲密：为什么爱越来越难？ (伊娃·易洛思) (Z-Library).pdf",
     "社会/基本收入·鹈鹕丛书（企鹅兰登出品！鹈鹕丛书最新作品！埃隆·马斯克、扎克伯格都倡导的基本收入到底是什么？写给所有人的一部深思基本收入问... (Z-Library).pdf",
-    "社会/笔记/基本收入/04.0基本收入改善贫困、贫富差距与不安全问题.md",
-    "政治/当代西方政治思潮/03保守自由主义.md",
-    "政治/当代西方政治思潮/02新自由主义.md",
-    "社会/工作、消费主义和新穷人 ((英)齐格蒙特·鲍曼) (Z-Library).pdf",
-    "政治/当代中国政府与政治/14人大制度的运行.md",
-    "政治/当代中国政府与政治/13人大的组织机构.md",
-    "政治/当代中国政府与政治/11中国共产党的意识形态.md",
-    "政治/当代中国政府与政治/12人大与人大制度.md",
-    "政治/当代中国政府与政治/10中国共产党的组织体系.md",
-    "政治/当代中国政府与政治/09党政体制中涉及的基本关系.md",
-    "政治/当代中国政府与政治/08党政体制的运作机制.md",
-    "政治/当代中国政府与政治/07党的领导体制与组织体系.md",
-    "政治/当代中国政府与政治/05当代中国政治体制的破坏与曲折.md",
-    "社会/互助论 ([俄] 克鲁泡特金) (Z-Library).pdf",
-    "社会/笔记/狗屁工作/03.0论精神暴力(上).md",
-    "社会/毫无意义的工作 (（美）大卫·格雷伯著；吕宇珺译) (Z-Library).pdf",
-    "社会/笔记/狗屁工作/02.0种类.md",
-    "社会/周易 (杨天才 张善文) (Z-Library).pdf",
-    "政治/政治社会学/00.0内容.md",
-    "政治/政治社会学",
-    "政治/地方政府学/00.0导论.md",
-    "社会/笔记/狗屁工作/01.0定义.md",
-    "闲书/银河系搭车客指南5部曲（套装共5本） (道格拉斯·亚当斯 (Douglas Adams)) (Z-Library).pdf",
-    "社会/笔记/狗屁工作/00.0导读.md",
-    "政治/地方政府学概论 (方雷（主编）) (Z-Library).pdf",
-    "政治/地方政府学",
-    "政治/当代中国政府与政治/当代中国政府与政治.rar",
-    "政治/可能性的艺术：比较政治学/source/阿拉伯之春(补充).md",
-    "政治/可能性的艺术：比较政治学/source/自由主义与新儒家.md",
-    "政治/可能性的艺术：比较政治学/source/自由霸权与大西洋宪章.md",
-    "政治/可能性的艺术：比较政治学/source/Pasted image 20230420160144.png",
-    "政治/可能性的艺术：比较政治学/source/p118023739-1.jpg",
+    "社会/基本收入/Menu.md",
+    "社会/基本收入/04.0基本收入改善贫困、贫富差距与不安全问题.md",
+    "社会/基本收入/00.0从引言开始.md",
+    "Home.md",
+    "[优绩主义.md",
+    "社会/基本收入/07.0基本收入的财务负担问题.md",
+    "社会/基本收入/06.0反对基本收入的标准意见.md",
+    "政治/可能性的艺术：比较政治学/01.0全球视野.md",
+    "社会/基本收入/05.0支持基本收入的经济理由.md",
+    "哲学/西方哲学史/西方哲学十五讲 (张志伟) (Z-Library).pdf",
+    "extraData/比较政治制度/比较政治制度/02第二讲  人民主权  权力怎么来（人民确实成为权力的合法性来源了，人民也有手段来制约他了。但是这种进步性是有边界的）.md",
+    "extraData/当代中国政府与政治/当代中国政府与政治/01 当代中国政府与政治的界定（像俄罗斯一样，无论如何我们也回不去了）   讲的是脉络.md",
+    "政治/比较政治学/01导论.md",
+    "社会/西方现代思想讲义/1.1现代思想的成年.md",
+    "社会/西方现代思想讲义/0.0导论.md",
+    "碎片/概念探讨/现代性问题.md",
+    "哲学/西方哲学史/02.3经院哲学.md",
+    "政治/贪婪已死·个人主义之后的政治/04从公民权利到身份表达.md",
+    "政治/贪婪已死·个人主义之后的政治/02个人主义的胜利—个人主义经济学.md",
+    "政治/贪婪已死·个人主义之后的政治/03权利.md",
+    "社会/把自己作为方法：与项飙谈话 (项飙, 吴琦) (Z-Library).pdf",
+    "政治/可能性的艺术：比较政治学/05.0文明的冲突.md",
     "政治/可能性的艺术：比较政治学/05.1新镀金时代—贫富差距.md",
-    "政治/笔记/置身事内/source/Pasted image 20230609195232.png",
-    "政治/笔记/置身事内/source/Pasted image 20230609195042.png",
-    "政治/笔记/中国历代政治得失/source/Pasted image 20230602172155.png",
-    "政治/笔记/中国历代政治得失/source/Pasted image 20230602172133.png",
-    "政治/笔记/中国历代政治得失/source/Pasted image 20230601213655.png",
-    "政治/笔记/置身事内/source/Pasted image 20230607161521.png",
-    "政治/笔记/置身事内/source/Pasted image 20230524180247.png",
-    "政治/笔记/置身事内/source/Pasted image 20230522110536.png",
+    "政治/可能性的艺术：比较政治学/05.2新镀金时代—三层叙事.md",
+    "Pasted image 20230920184508.png",
+    "Pasted image 20230926220215.png",
+    "碎片/概念探讨/符号消费.md",
+    "社会/狗屁工作/02.0种类.md",
+    "社会/基本收入/01.0基本收入的意义与历史起源.md",
+    "政治/刘擎西方现代思想讲义 (刘擎) (Z-Library).pdf",
+    "Pasted image 20231005164420.png",
+    "Pasted image 20231005154006.png",
+    "政治/可能性的艺术：比较政治学/可能性的艺术：比较政治学30讲（学者刘瑜比较政治学新著，跳出现象，通过比较洞察政治，突破认知偏见，在浩瀚的可能性中理解我们自身 理想国出品） (1) 1.pdf",
+    "社会/消费社会(对消费社会的批判分析是当代哲学家、社会学家讨论的主要课题之一,《消费社会》是此类著作中的翘楚。中文版问世以来,重印9次,不断被学... (Z-Library).pdf",
+    "重生之我是大法师/民法学",
+    "社会/下沉年代（白宫之乱的根本原因是什么？拜登上任后美国何去何从？通俗版《美国陷阱》，面对面访谈民主党前幕僚，深刻解读美国为什么会衰落。... (Z-Library).pdf",
+    "政治/政治学基础（第四版） (王浦劬) (Z-Library).pdf",
+    "kada.png",
+    "deathStanding.jpg",
+    "经济/置身事内/source/Pasted image 20230609195232.png",
+    "经济/置身事内/source/Pasted image 20230609195042.png",
+    "经济/置身事内/source/Pasted image 20230607161521.png",
+    "经济/置身事内/source/Pasted image 20230524180247.png",
     "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas"

@@ -15,5 +15,13 @@
       ],
       "key": "D"
     }
+  ],
+  "digitalgarden:publish-note": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Insert"
+    }
   ]
 }
