@@ -4,68 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "92fbc74ff0f6420a",
+        "id": "5d3b1a734a1abf95",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
-            "id": "2b5515bd197b75af",
+            "id": "f900a429832582eb",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "社会/工作、消费主义和新穷人 ((英)齐格蒙特·鲍曼) (Z-Library).pdf"
-              }
-            }
-          },
-          {
-            "id": "575aad8a39f5761c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "社会/把自己作为方法：与项飙谈话 (项飙, 吴琦) (Z-Library).pdf"
+                "file": "社会/鲍曼/工作、消费主义和新穷人 ((英)齐格蒙特·鲍曼) (Z-Library).pdf"
               }
             }
           }
         ]
       },
       {
-        "id": "4036c0c5b6dd036d",
+        "id": "920ba6460717ee93",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
-            "id": "3f7f60c7228e1bb3",
+            "id": "3205833516fefe3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "社会/基本收入/Menu.md",
+                "file": "社会/鲍曼/工作、消费主义和新穷人/2.0从工作伦理到消费美学.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "67b77bc1233882d5",
+            "id": "b4676ddced48e58e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "社会/狗屁工作/01.0定义.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10b1c176bda292d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "哲学/心之道/01.0焦虑的年代.md",
+                "file": "社会/西方现代思想讲义/3.520世纪的教训-伯林.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,8 +76,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "优绩主义",
-                "matchingCase": false,
+                "query": "tag:#弗洛伊德",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -145,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "社会/工作、消费主义和新穷人 ((英)齐格蒙特·鲍曼) (Z-Library).pdf",
+                "file": "社会/鲍曼/工作、消费主义和新穷人/2.0从工作伦理到消费美学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "社会/工作、消费主义和新穷人 ((英)齐格蒙特·鲍曼) (Z-Library).pdf",
+                "file": "社会/鲍曼/工作、消费主义和新穷人/2.0从工作伦理到消费美学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "社会/工作、消费主义和新穷人 ((英)齐格蒙特·鲍曼) (Z-Library).pdf"
+                "file": "社会/鲍曼/工作、消费主义和新穷人/2.0从工作伦理到消费美学.md"
               }
             }
           },
@@ -212,8 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,55 +202,57 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "2b5515bd197b75af",
+  "active": "3205833516fefe3f",
   "lastOpenFiles": [
-    "社会/冷亲密：为什么爱越来越难？ (伊娃·易洛思) (Z-Library).pdf",
-    "社会/基本收入·鹈鹕丛书（企鹅兰登出品！鹈鹕丛书最新作品！埃隆·马斯克、扎克伯格都倡导的基本收入到底是什么？写给所有人的一部深思基本收入问... (Z-Library).pdf",
-    "社会/基本收入/Menu.md",
-    "社会/基本收入/04.0基本收入改善贫困、贫富差距与不安全问题.md",
-    "社会/基本收入/00.0从引言开始.md",
+    "社会/鲍曼/工作、消费主义和新穷人/1.0工作的意义：创造工作伦理.md",
+    "社会/鲍曼/工作、消费主义和新穷人/2.0从工作伦理到消费美学.md",
+    "社会/鲍曼/工作、消费主义和新穷人/3.0福利国家的兴衰.md",
+    "社会/鲍曼/工作、消费主义和新穷人 ((英)齐格蒙特·鲍曼) (Z-Library).pdf",
+    "社会/社会学基本概念 -- 安东尼吉登斯 -- 北京大学出版社 -- 09a3c33487114d2f731cbb5236df493a -- Anna’s Archive.pdf",
+    "社会/社会学基本概念（第二版） ( etc.) (Z-Library).pdf",
+    "政治/政治学通识 (包刚升) (Z-Library).pdf",
+    "社会/西方现代思想讲义/3.520世纪的教训-伯林.md",
+    "社会/西方现代思想讲义/4.1自由主义及其批判者-罗尔斯.md",
+    "政治/政治学通识/1.0政治是什么.md",
+    "社会/西方现代思想讲义/3.220世纪的教训-阿伦特.md",
+    "社会/西方现代思想讲义/刘擎西方现代思想讲义 (刘擎) (Z-Library).pdf",
+    "社会/西方现代思想讲义/刘擎《西方现代思想讲义》 笔记目录.md",
+    "政治/当代西方政治思潮/0.1自由主义.md",
+    "社会/西方现代思想讲义/3.420世纪的教训-哈耶克.md",
+    "政治/当代西方政治思潮/0.3保守自由主义.md",
+    "政治/民主的逻辑 (包刚升) (Z-Library).pdf",
+    "社会/韩炳哲/韩炳哲作品系列（套装共9册） (韩炳哲) (Z-Library).pdf",
+    "社会/韩炳哲",
+    "apocalypse.md",
     "Home.md",
-    "[优绩主义.md",
-    "社会/基本收入/07.0基本收入的财务负担问题.md",
-    "社会/基本收入/06.0反对基本收入的标准意见.md",
-    "政治/可能性的艺术：比较政治学/01.0全球视野.md",
-    "社会/基本收入/05.0支持基本收入的经济理由.md",
-    "哲学/西方哲学史/西方哲学十五讲 (张志伟) (Z-Library).pdf",
-    "extraData/比较政治制度/比较政治制度/02第二讲  人民主权  权力怎么来（人民确实成为权力的合法性来源了，人民也有手段来制约他了。但是这种进步性是有边界的）.md",
-    "extraData/当代中国政府与政治/当代中国政府与政治/01 当代中国政府与政治的界定（像俄罗斯一样，无论如何我们也回不去了）   讲的是脉络.md",
-    "政治/比较政治学/01导论.md",
-    "社会/西方现代思想讲义/1.1现代思想的成年.md",
-    "社会/西方现代思想讲义/0.0导论.md",
-    "碎片/概念探讨/现代性问题.md",
-    "哲学/西方哲学史/02.3经院哲学.md",
-    "政治/贪婪已死·个人主义之后的政治/04从公民权利到身份表达.md",
-    "政治/贪婪已死·个人主义之后的政治/02个人主义的胜利—个人主义经济学.md",
-    "政治/贪婪已死·个人主义之后的政治/03权利.md",
-    "社会/把自己作为方法：与项飙谈话 (项飙, 吴琦) (Z-Library).pdf",
-    "政治/可能性的艺术：比较政治学/05.0文明的冲突.md",
-    "政治/可能性的艺术：比较政治学/05.1新镀金时代—贫富差距.md",
-    "政治/可能性的艺术：比较政治学/05.2新镀金时代—三层叙事.md",
-    "Pasted image 20230920184508.png",
-    "Pasted image 20230926220215.png",
-    "碎片/概念探讨/符号消费.md",
-    "社会/狗屁工作/02.0种类.md",
-    "社会/基本收入/01.0基本收入的意义与历史起源.md",
-    "政治/刘擎西方现代思想讲义 (刘擎) (Z-Library).pdf",
-    "Pasted image 20231005164420.png",
-    "Pasted image 20231005154006.png",
-    "政治/可能性的艺术：比较政治学/可能性的艺术：比较政治学30讲（学者刘瑜比较政治学新著，跳出现象，通过比较洞察政治，突破认知偏见，在浩瀚的可能性中理解我们自身 理想国出品） (1) 1.pdf",
-    "社会/消费社会(对消费社会的批判分析是当代哲学家、社会学家讨论的主要课题之一,《消费社会》是此类著作中的翘楚。中文版问世以来,重印9次,不断被学... (Z-Library).pdf",
-    "重生之我是大法师/民法学",
-    "社会/下沉年代（白宫之乱的根本原因是什么？拜登上任后美国何去何从？通俗版《美国陷阱》，面对面访谈民主党前幕僚，深刻解读美国为什么会衰落。... (Z-Library).pdf",
-    "政治/政治学基础（第四版） (王浦劬) (Z-Library).pdf",
-    "kada.png",
-    "deathStanding.jpg",
-    "经济/置身事内/source/Pasted image 20230609195232.png",
-    "经济/置身事内/source/Pasted image 20230609195042.png",
-    "经济/置身事内/source/Pasted image 20230607161521.png",
-    "经济/置身事内/source/Pasted image 20230524180247.png",
-    "未命名.canvas",
+    "Pasted image 20231109203856.png",
+    "社会/韦伯/读书笔记.md",
+    "社会/韦伯/新教伦理与资本主义精神/1.2资本主义精神.md",
+    "政治/贪婪已死：个人主义之后的政治.pdf",
+    "政治/比较政治制度/s9比较行政制度.md",
+    "政治/比较政治学/3.1政府形式.md",
+    "社会/幻象.pdf",
+    "政治/笔记/大断裂：人类本性与社会秩序的重建/01.0社会价值的大断裂.md",
+    "政治/比较政治制度/source/美国政治制度的困境.md",
+    "政治/可能性的艺术：比较政治学/03.1美国的国家建构.md",
+    "政治/可能性的艺术：比较政治学/03.2阿富汗的国家建构.md",
+    "extraData/当代中国政府与政治/题目.md",
+    "extraData/比较政治制度/比较政治制度/12政府制度   行政机关.md",
+    "extraData/比较政治制度/比较政治制度/07第三讲之二 选举的过程与程序.md",
+    "extraData/比较政治制度/比较政治制度/00比较政治制度（更强调国外的）.md",
+    "政治/比较政治学/2.2重新找回国家.md",
+    "source/Pasted image 20231025230544.png",
+    "source/Pasted image 20231025181536.png",
+    "source/Pasted image 20231025181520.png",
+    "source/Pasted image 20231020091633.png",
+    "source/Pasted image 20231019202815.png",
+    "source/Pasted image 20231018212308.png",
+    "source/Pasted image 20231018211827.png",
+    "source/Pasted image 20231018211823.png",
+    "source/Pasted image 20231018211006.png",
+    "未命名 3.canvas",
     "未命名 2.canvas",
-    "未命名 1.canvas"
+    "未命名 1.canvas",
+    "未命名.canvas"
   ]
 }
